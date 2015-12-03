@@ -8,8 +8,11 @@ https://github.com/jikeytang/sublime-text
 
 the plugins of my:
 emmet
+
 sidebarEhancements
+
 sublimeLinter eslint
+
 soda theme(pending)
 BracketHighlighter(its not good enough)
 
