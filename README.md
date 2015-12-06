@@ -18,6 +18,4 @@ soda theme(pending)
 
 BracketHighlighter(its not good enough)
 
-test
-
 
